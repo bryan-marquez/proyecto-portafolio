@@ -130,3 +130,5 @@ dmypy.json
 
 # otros
 data/datos_grandes.csv
+
+notebooks/.ipynb_checkpoints/analisis_inicial-checkpoint.ipynb
