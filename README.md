@@ -1,2 +1,2 @@
 # proyecto-portafolio
-Mi primer proyecto de datos
+Mi primer proyecto de datos en Python
